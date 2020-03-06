@@ -93,6 +93,6 @@ function spil() {
  }
 
 
- ok = confirm('Din gevinst er '+total3+' kr. Fortsæt?')
+ ok = confirm('Din gevinst er '+total+' kr. Fortsæt?')
  }
 }
